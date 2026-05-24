@@ -3,3 +3,5 @@ cffi==1.16.0
 pycparser==2.22
 cloudscraper==1.2.71
 requests==2.32.3
+flask==3.0.3
+werkzeug==3.0.3
